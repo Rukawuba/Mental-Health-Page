@@ -1,4 +1,4 @@
-About This Page
+##About This Page
 This page is dedicated to providing resources and information for individuals struggling with mental health. It offers a variety of tools and support to help people cope with difficult emotions and find ways to improve their well-being.
 
 Key Features
